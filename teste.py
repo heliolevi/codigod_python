@@ -1,0 +1,1 @@
+convite= (input("vamos sair ?"))
